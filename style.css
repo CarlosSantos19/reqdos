@@ -1,0 +1,26 @@
+head{
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+    font-family: Arial; 
+    text-align: center;
+    color: #333;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    background-color: blue;
+    cursor: pointer;
+    color: aliceblue;
+}
+audio{
+    display: block;
+    margin: 20px auto;
+}
+
